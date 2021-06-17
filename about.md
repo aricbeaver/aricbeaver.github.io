@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Jake. These are my thoughts.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[jacobmaeder@gmail.com](mailto:jacobmaeder@gmail.com)
